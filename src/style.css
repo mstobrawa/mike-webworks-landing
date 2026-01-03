@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  /* ===== SURFACES ===== */
+  --color-surface: #22162b; /* główne tło (ciemne) */
+  --color-surface-alt: #451f55; /* sekcje / karty */
+
+  /* ===== TEXT ===== */
+  --color-text: #f8f5ff; /* jasny tekst */
+  --color-text-muted: #cdbfe3; /* przytłumiony fiolet */
+
+  /* ===== BRAND / ACTION ===== */
+  --color-brand: #e54f6d; /* CTA / przyciski */
+
+  /* ===== BORDERS ===== */
+  --color-border: #724e91;
+
+  /* ===== ACCENT (opcjonalnie) ===== */
+  --color-accent: #f8c630;
+}
